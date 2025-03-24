@@ -1,1 +1,8 @@
+
+// ไม่ต้องเก็บไฟล์ settings.json และโฟลเดอร์ .vscode ใน git repository
+settings.json
 .vscode/
+
+// ไม่ต้องเก็บโฟลเดอร์ dir auto v0.1 ใน git repository
+dir auto v0.1/
+
